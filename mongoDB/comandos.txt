@@ -1,0 +1,10 @@
+maciasgalvanarturodaniel_db_user //user
+
+qedoXlU0H3BduFdm //password
+
+npm install mongodb //comando para instalar
+
+/*url de conexion*/
+mongodb+srv://maciasgalvanarturodaniel_db_user:qedoXlU0H3BduFdm@cluster0.woxmjiu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+0.0.0.0/0 // es permiso de que toda las ips se puedan conectar

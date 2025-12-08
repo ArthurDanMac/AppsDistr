@@ -1,0 +1,24 @@
+toodos los servicios rest api tienen un rate limit
+por ejemplo
+bloqueos por chatgpt
+
+
+web scrapping
+se baja html
+veo info intersada
+ver si hay infomacion unica
+tratamineto en texto
+busco etiquetas que uiqeo
+bsaco infoy la regresoo
+
+
+cre un servicio webcarga html
+busca un dato
+saca info web
+
+servicio genera json con la info
+
+
+para poder tener una informacion de algiun ditio en el que no se pueda obtener los datos de manera directa, se usa fuerza bruta, es decir web scrapping
+
+es en si es mineria de texto

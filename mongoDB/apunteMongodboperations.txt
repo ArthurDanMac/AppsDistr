@@ -1,0 +1,21 @@
+await se usa cuando la ejecución depende de un servidor externo, nos asegura que la ejecución continua hasta que el elemento conteste, cualquier elemento que acepte un await, debe ser asíncrono.
+async se usa como asíncrono para todas las funciones que representan un sitio web deben ser asíncronas, cuando la invocas debe ser con un await 
+
+es json porque viene con la estructura 
+en este caso desde la conexión debe insertarse 4 valores, insertMany (si es uno puedes ser insert  )
+
+las operaciones deben ir en un try-cathc, para capturar los errores 
+se define una variable findQuery que en este caso busca el tiempo de preparación menor en lo que esta en corchetes. lt -less than
+
+pedimos que ordene los resultados, manda el nombre 
+
+cursores son arrays de referencia, son punteros y no tienen esos datos, 
+sabemos que recipe tiene nombre porque lo guardamos en esa variable temporal
+
+ después se busca un ingrediente y no se hace forEach porque solo esta buscando uno 
+
+después se busca que el tiempo sea exacto a 72, como no hay usa el updateDoc que actualoza el nuevo valor, y con el findOneAndUpdate actualiza una serie. 
+
+al ultimo borra todo lo que tenga elotes y arroz frito
+
+final cierra la conexión
